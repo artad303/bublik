@@ -16,6 +16,7 @@ nftset=/graph.whatsapp.net/4#inet#fw4#vpn_domains
 nftset=/cdn-telegram.org/4#inet#fw4#vpn_domains
 nftset=/comments.app/4#inet#fw4#vpn_domains
 nftset=/contest.com/4#inet#fw4#vpn_domains
+nftset=/web.whatsapp.com/4#inet#fw4#vpn_domains
 nftset=/fragment.com/4#inet#fw4#vpn_domains
 nftset=/graph.org/4#inet#fw4#vpn_domains
 nftset=/quiz.directory/4#inet#fw4#vpn_domains
